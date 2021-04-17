@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/ClockReact/static/js/main.e0cbbf31.chunk.js",
+    "main.js.map": "/ClockReact/static/js/main.e0cbbf31.chunk.js.map",
+    "runtime-main.js": "/ClockReact/static/js/runtime-main.8b3486b2.js",
+    "runtime-main.js.map": "/ClockReact/static/js/runtime-main.8b3486b2.js.map",
+    "static/js/2.4fc88b8c.chunk.js": "/ClockReact/static/js/2.4fc88b8c.chunk.js",
+    "static/js/2.4fc88b8c.chunk.js.map": "/ClockReact/static/js/2.4fc88b8c.chunk.js.map",
+    "index.html": "/ClockReact/index.html",
+    "static/js/2.4fc88b8c.chunk.js.LICENSE.txt": "/ClockReact/static/js/2.4fc88b8c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b3486b2.js",
+    "static/js/2.4fc88b8c.chunk.js",
+    "static/js/main.e0cbbf31.chunk.js"
+  ]
+}
